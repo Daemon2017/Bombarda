@@ -1,0 +1,31 @@
+c:\users\daemon\documents\visual studio 11\Projects\Albert\Albert\bin\Debug\Albert.exe.config
+c:\users\daemon\documents\visual studio 11\Projects\Albert\Albert\obj\Debug\Albert.csprojResolveAssemblyReference.cache
+c:\users\daemon\documents\visual studio 11\Projects\Albert\Albert\obj\Debug\Albert.Form1.resources
+c:\users\daemon\documents\visual studio 11\Projects\Albert\Albert\obj\Debug\Albert.Properties.Resources.resources
+c:\users\daemon\documents\visual studio 11\Projects\Albert\Albert\obj\Debug\Albert.csproj.GenerateResource.Cache
+c:\users\daemon\documents\visual studio 11\Projects\Albert\Albert\bin\Debug\Albert.exe
+c:\users\daemon\documents\visual studio 11\Projects\Albert\Albert\bin\Debug\Albert.pdb
+c:\users\daemon\documents\visual studio 11\Projects\Albert\Albert\obj\Debug\Albert.exe
+c:\users\daemon\documents\visual studio 11\Projects\Albert\Albert\obj\Debug\Albert.pdb
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\bin\Debug\Albert.exe.config
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\obj\Debug\Albert.exe
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\obj\Debug\Albert.pdb
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\bin\Debug\Albert.exe
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\bin\Debug\Albert.pdb
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\obj\Debug\Albert.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\obj\Debug\Albert.Form1.resources
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\obj\Debug\Albert.Properties.Resources.resources
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\obj\Debug\Albert.csproj.GenerateResource.Cache
+F:\Новая папка\Projects\Albert\Albert\bin\Debug\Albert.exe.config
+F:\Новая папка\Projects\Albert\Albert\obj\Debug\Albert.exe
+F:\Новая папка\Projects\Albert\Albert\obj\Debug\Albert.pdb
+F:\Новая папка\Projects\Albert\Albert\bin\Debug\Albert.exe.manifest
+F:\Новая папка\Projects\Albert\Albert\bin\Debug\Albert.application
+F:\Новая папка\Projects\Albert\Albert\bin\Debug\Albert.exe
+F:\Новая папка\Projects\Albert\Albert\bin\Debug\Albert.pdb
+F:\Новая папка\Projects\Albert\Albert\obj\Debug\Albert.csprojResolveAssemblyReference.cache
+F:\Новая папка\Projects\Albert\Albert\obj\Debug\Albert.Form1.resources
+F:\Новая папка\Projects\Albert\Albert\obj\Debug\Albert.Properties.Resources.resources
+F:\Новая папка\Projects\Albert\Albert\obj\Debug\Albert.csproj.GenerateResource.Cache
+F:\Новая папка\Projects\Albert\Albert\obj\Debug\Albert.exe.manifest
+F:\Новая папка\Projects\Albert\Albert\obj\Debug\Albert.application

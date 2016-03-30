@@ -1,0 +1,26 @@
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\bin\Release\Albert.exe.config
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\bin\Release\Albert.exe
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\bin\Release\Albert.pdb
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\obj\Release\Albert.Form1.resources
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\obj\Release\Albert.Properties.Resources.resources
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\obj\Release\Albert.csproj.GenerateResource.Cache
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\obj\Release\Albert.exe
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\obj\Release\Albert.pdb
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\bin\Release\Albert.exe.manifest
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\bin\Release\Albert.application
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\obj\Release\Albert.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\obj\Release\Albert.exe.manifest
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\Albert\Albert\obj\Release\Albert.application
+F:\Новая папка\Projects\Albert\Albert\bin\Release\Albert.exe.config
+F:\Новая папка\Projects\Albert\Albert\obj\Release\Albert.exe
+F:\Новая папка\Projects\Albert\Albert\obj\Release\Albert.pdb
+F:\Новая папка\Projects\Albert\Albert\obj\Release\Albert.csprojResolveAssemblyReference.cache
+F:\Новая папка\Projects\Albert\Albert\obj\Release\Albert.Form1.resources
+F:\Новая папка\Projects\Albert\Albert\obj\Release\Albert.Properties.Resources.resources
+F:\Новая папка\Projects\Albert\Albert\obj\Release\Albert.csproj.GenerateResource.Cache
+F:\Новая папка\Projects\Albert\Albert\bin\Release\Albert.exe.manifest
+F:\Новая папка\Projects\Albert\Albert\bin\Release\Albert.application
+F:\Новая папка\Projects\Albert\Albert\bin\Release\Albert.exe
+F:\Новая папка\Projects\Albert\Albert\bin\Release\Albert.pdb
+F:\Новая папка\Projects\Albert\Albert\obj\Release\Albert.exe.manifest
+F:\Новая папка\Projects\Albert\Albert\obj\Release\Albert.application
